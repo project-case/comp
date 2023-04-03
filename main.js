@@ -12,6 +12,7 @@ class PhotoGallery{
 
   }
 
+	
   eventHandle(){
     document.addEventListener('search',()=>{
       this.getImg(1);
